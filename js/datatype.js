@@ -48,11 +48,4 @@ const myFunction = function(){
     console.log('Hello world');
 }
 // check datatype
-console.log(typeof bigNumber);
-
-
-
-
-
-
-
+//console.log(typeof bigNumber);
