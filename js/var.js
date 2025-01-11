@@ -1,5 +1,6 @@
-const userId = 102
+const userId = 102 //  data store var cannot change 
 
+// data store in the  var can change 
 let userName='Sonam'
 let userEmail='sd10@google.com'
 var userPassword = 123456
