@@ -12,3 +12,4 @@ let userState='Paro'
 //console.log(userName)
 console.log([userId,userName,userEmail,userPassword,userCity,userState])
 
+// let is preferred over var because var issues with scope {} and functions
